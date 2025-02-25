@@ -1,6 +1,6 @@
 # Análise de Dados do RH da IBM
 
-📌Descrição:  
+📌Descrição  
 Este projeto analisa um conjunto de dados do RH da IBM disponível no Kaggle (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/code).  
 O objetivo é explorar padrões nos dados e identificar possíveis insights sobre a força de trabalho da empresa.  
   
